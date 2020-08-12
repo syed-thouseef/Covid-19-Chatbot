@@ -1,0 +1,299 @@
+{
+  "description": "To keep you updated on COVID-19",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "Dr.Pandemic",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": false,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "04cb6e8b-4680-4f22-ad2d-58cbe55f7100",
+        "signInRequired": false
+      },
+      {
+        "intentId": "04d0007d-2129-4d20-b6cc-179f2cf5ff55",
+        "signInRequired": false
+      },
+      {
+        "intentId": "06bd5bc0-e1ff-46b6-b6ff-62fca96d6d6e",
+        "signInRequired": false
+      },
+      {
+        "intentId": "0899c9a6-460e-487c-924f-46629b01a61f",
+        "signInRequired": false
+      },
+      {
+        "intentId": "1b4c00cd-9cf9-4a9c-897c-a9446b821341",
+        "signInRequired": false
+      },
+      {
+        "intentId": "18fe0582-f448-4a4a-ad06-ad9749392ef8",
+        "signInRequired": false
+      },
+      {
+        "intentId": "16b2bfba-f988-4c17-abc2-d2141b5ee2bc",
+        "signInRequired": false
+      },
+      {
+        "intentId": "168b8d8c-5e22-4043-9797-08c6f0f9991a",
+        "signInRequired": false
+      },
+      {
+        "intentId": "1f512569-b480-46b6-920a-be1e16ca7e60",
+        "signInRequired": false
+      },
+      {
+        "intentId": "209c7448-6046-46a4-a90a-606b5fdd41a0",
+        "signInRequired": false
+      },
+      {
+        "intentId": "279cd436-0d82-4afc-bd30-ecf5b1c1ab6e",
+        "signInRequired": false
+      },
+      {
+        "intentId": "2968c9ec-0c51-4927-b8ad-52393b98663f",
+        "signInRequired": false
+      },
+      {
+        "intentId": "2a449b02-3c16-4886-8851-1bea7e5cc012",
+        "signInRequired": false
+      },
+      {
+        "intentId": "1382c155-82e2-48ca-8c7c-89f2ceb47736",
+        "signInRequired": false
+      },
+      {
+        "intentId": "2e685c56-f652-4b6b-b2eb-41cf54517bab",
+        "signInRequired": false
+      },
+      {
+        "intentId": "31e24e4b-a46b-46a2-9bae-248bdccc8757",
+        "signInRequired": false
+      },
+      {
+        "intentId": "32622a7e-ecee-4e92-90c5-5fdab61dbb50",
+        "signInRequired": false
+      },
+      {
+        "intentId": "32a2fe48-e112-4bb2-af75-a48f6ef28cbb",
+        "signInRequired": false
+      },
+      {
+        "intentId": "3bacca5d-dc2c-430a-97bd-16bd5e91afb6",
+        "signInRequired": false
+      },
+      {
+        "intentId": "3dd0482f-ec35-4732-8931-c2e5712029e4",
+        "signInRequired": false
+      },
+      {
+        "intentId": "417d1bc2-828f-4033-ac92-dad2984a72c3",
+        "signInRequired": false
+      },
+      {
+        "intentId": "454b871f-a6d8-40cb-8bf5-6f86ea9e008e",
+        "signInRequired": false
+      },
+      {
+        "intentId": "46ecea42-debe-45a1-8b09-79aaf63b0b61",
+        "signInRequired": false
+      },
+      {
+        "intentId": "4f1d458d-5935-409b-b4e2-724fa8763b84",
+        "signInRequired": false
+      },
+      {
+        "intentId": "57c09474-7873-4659-958d-73e449792d1f",
+        "signInRequired": false
+      },
+      {
+        "intentId": "604c4143-839e-499b-8b74-2f1b0cb18a5c",
+        "signInRequired": false
+      },
+      {
+        "intentId": "650aec4e-9616-4865-b8ad-2a682509d29a",
+        "signInRequired": false
+      },
+      {
+        "intentId": "66f14dde-4852-4e87-94f3-e4a111ea666a",
+        "signInRequired": false
+      },
+      {
+        "intentId": "742fe985-39d1-4132-ae94-a401f78c8c79",
+        "signInRequired": false
+      },
+      {
+        "intentId": "77cba9ae-251e-44d4-b493-38ff5037a020",
+        "signInRequired": false
+      },
+      {
+        "intentId": "7a8a0c35-0383-4378-9ca6-051449c3693d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "7fe1e41f-6c1d-4f12-b8f7-1bd408a483e9",
+        "signInRequired": false
+      },
+      {
+        "intentId": "85d3694c-5fb7-4da6-9f7d-3c9d65f08ffe",
+        "signInRequired": false
+      },
+      {
+        "intentId": "85fadacc-152d-4343-b9b0-a1b089c9e727",
+        "signInRequired": false
+      },
+      {
+        "intentId": "89de7db3-9f41-4681-80f3-7b63b035b7af",
+        "signInRequired": false
+      },
+      {
+        "intentId": "8e912a2a-ffe2-4fa9-9cf7-97c3e2596f88",
+        "signInRequired": false
+      },
+      {
+        "intentId": "8e92f19c-b7a8-4cc9-8426-7e60c57fffc8",
+        "signInRequired": false
+      },
+      {
+        "intentId": "9014b221-20b2-46a7-be42-66d7a32f017d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "96d9c5b3-1246-4c96-833b-1849dc0f41b9",
+        "signInRequired": false
+      },
+      {
+        "intentId": "96e84a87-a427-441e-a04d-75c8d614e8a5",
+        "signInRequired": false
+      },
+      {
+        "intentId": "976dbb96-bd43-4e35-9fc1-64d7209561c9",
+        "signInRequired": false
+      },
+      {
+        "intentId": "97ef32e4-d411-4842-9ac9-42fd75962bea",
+        "signInRequired": false
+      },
+      {
+        "intentId": "9ea0d04f-4e73-40ed-a07a-083c3ea8a5e6",
+        "signInRequired": false
+      },
+      {
+        "intentId": "a00e66ad-e915-4c5b-accc-85a55cdff47e",
+        "signInRequired": false
+      },
+      {
+        "intentId": "a1c784a6-4520-4459-af12-694f68c3fa80",
+        "signInRequired": false
+      },
+      {
+        "intentId": "a40626c6-50a4-4c54-908b-06348ed41b6d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "adce0bf3-3e29-4b15-923c-1d7c461c17d6",
+        "signInRequired": false
+      },
+      {
+        "intentId": "b05bbca8-a39e-4972-82ea-95c51e786220",
+        "signInRequired": false
+      },
+      {
+        "intentId": "b446cc71-e554-4ae5-bc4a-dc780b96efc3",
+        "signInRequired": false
+      },
+      {
+        "intentId": "b5bad0e1-a46c-44a2-bb0a-0ee15216913a",
+        "signInRequired": false
+      },
+      {
+        "intentId": "ba5b02f5-1d25-4349-b933-b229cb79dd92",
+        "signInRequired": false
+      },
+      {
+        "intentId": "c361651e-7298-4982-b617-20a5a9be96de",
+        "signInRequired": false
+      },
+      {
+        "intentId": "c766ca60-56b3-4ffa-b67a-3588437e8a24",
+        "signInRequired": false
+      },
+      {
+        "intentId": "cf21dcc0-95f6-4b44-b64d-cdd4bd768eda",
+        "signInRequired": false
+      },
+      {
+        "intentId": "d28911f1-615f-41fc-817d-5bb4f415c413",
+        "signInRequired": false
+      },
+      {
+        "intentId": "de1c1d6c-3bf6-4964-aa87-021ffdd49412",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e54f7850-5a38-4d58-bce2-5301419f0f56",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e943ccf0-fe2d-4c54-88ac-4d9df5ee36c9",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e9dd8c1d-ca4f-4c7e-ac5b-090dd676d24c",
+        "signInRequired": false
+      },
+      {
+        "intentId": "ef774992-808b-4a6c-92fa-db0cbfe19c46",
+        "signInRequired": false
+      },
+      {
+        "intentId": "f8b85fb5-c2f7-4024-b1c0-9a6dd03b524a",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "providerId": "",
+      "authorizationUrl": "",
+      "tokenUrl": "",
+      "scopes": "",
+      "privacyPolicyUrl": "",
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": false,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/Los_Angeles",
+  "webhook": {
+    "url": "https://us-central1-covid19-updates-9lf9.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "username": "",
+    "headers": {},
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": true,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "mlMinConfidence": 0.7,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2beta1",
+  "secondaryKey": "e33045480a774e2fbfda3e6b72587935",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.7,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": ""
+}
